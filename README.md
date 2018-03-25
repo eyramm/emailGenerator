@@ -4,7 +4,7 @@ This is simple tool creates an email and forwarding list in csv format from a li
 
 **Usage**
 
-Example: python3 emailGenerator.py -f names.txt -d domain.com -t hello@domain.com -p samplePassword
+Example: ```python3 emailGenerator.py -f names.txt -d domain.com -t hello@domain.com -p samplePassword```
 
 **Options**
 
