@@ -1,6 +1,6 @@
 # emailGenerator
 
-This is a simple tool create email and forwarding csv lists from a list of names provided in a text file. 
+This is simple tool creates an email and forwarding list in csv format from a list of names provided in a text file. 
 
 **Usage**
 
@@ -19,3 +19,5 @@ Example: python3 emailGenerator.py -f names.txt -d domain.com -t hello@domain.co
 **-t**: Target - This is the target email for email forwarding. 
 
 **-o**: Output - This specifies the name of the file containing the email list. The default file is *emails.csv*
+
+Two files are generated in the end - emails.csv and forwarding,csv
